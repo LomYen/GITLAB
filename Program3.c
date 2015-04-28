@@ -2,7 +2,7 @@
 #include <string.h>
 void main()
 {
-	char Name[100], G[5], answer[10];
+	char Name[160], G[5], answer[10];
 	int i;
 	do
 	{
