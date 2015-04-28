@@ -2,10 +2,10 @@
 #include <string.h>
 void main()
 {
-	char Name[40], G[5], answer[10];
+	char Name[40], G[9], answer[10];
 	int i;
 	do
 	{
-		printf("What is your LastName? ");
+		printf("What is your LastWord? ");
 		scanf("%s", Name);
 }
